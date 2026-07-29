@@ -1,3 +1,5 @@
+//Nested Ternary Operator is a conditional operator that allows you to evaluate multiple conditions in a single expression.
+//  It is a shorthand way of writing if-else statements and can be used to simplify code.
 // Multiple Condition
 
 let age = 26;

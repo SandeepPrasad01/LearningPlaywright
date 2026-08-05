@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(del:*)",
+      "Shell(git:*)",
+      "Shell(git commit -F - <<'EOF' feat: add comments, while-loop example, and interview question across modules - Added explanatory comments to operator files (logical, nested ternary, type, inc/dec) - Added interview question (Go Goa / Not Goa) to Statements - Added for-loop with conditional gift logic and while-loop examples to Loops - Updated README to reflect new content Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)",
+      "powershell"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}

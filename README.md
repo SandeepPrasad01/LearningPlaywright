@@ -16,6 +16,7 @@ A hands-on JavaScript learning journey — from the absolute basics through oper
 | **08_UserInputs** | Browser `prompt()`, Node.js `readline`, `fs` module for file-based input |
 | **09_Loops** | `for`, `while`, `do...while`, increment patterns, nested loops, conditional gift logic, comparisons & interview questions |
 | **10_Arrays** | Creation, access/modify, adding/removing, searching, iteration, transformation, sorting, slicing, concatenation, checking, copying, destructuring, interview questions |
+| **11_Functions** | Function types (basic, expression, arrow, IIFE), template literals, spread, return values, hoisting (`var`/`let`/`const`/function), TDZ, interview questions |
 | **IQ_Notes** | Deep-dive Markdown on V8 internals (Ignition + TurboFan), `let` vs `var` vs `const` breakdown |
 
 ## Progression

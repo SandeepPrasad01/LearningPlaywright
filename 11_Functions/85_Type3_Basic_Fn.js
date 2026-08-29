@@ -17,4 +17,4 @@ function greetByHi(){
 }
 
 let op = greetByHi();
-console.log(op);
+console.log(op);    
